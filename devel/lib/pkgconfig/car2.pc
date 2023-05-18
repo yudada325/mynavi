@@ -1,0 +1,8 @@
+prefix=/home/yudada/ros1_tb3_ws/devel
+
+Name: car2
+Description: Description of car2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
